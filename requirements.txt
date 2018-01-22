@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.0
+bibtexparser==0.6.2
+bs4==0.0.1
+pdfminer==20140328
+selenium==3.8.1
